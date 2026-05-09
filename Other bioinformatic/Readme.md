@@ -1,4 +1,4 @@
-# Script for bioinformatic
+# Scripts for bioinformatic
 
 ## Quality-filter
 bash Meta_qc_multi.sh raw_data clean_data 5
