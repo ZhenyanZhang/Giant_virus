@@ -1,2 +1,2 @@
 # Giant_virus
-Code for giant virus analysis
+Scripts and codes for giant virus analysis
